@@ -30,17 +30,17 @@ Ches Bonnell led in individual performance, achieving $320.9K in sales.
 
 🔹 🌍 Country-wise Revenue Contribution:
 
-🇦🇺 Australia: $113K
+Australia: $113K
 
-🇬🇧 United Kingdom: $105K
+United Kingdom: $105K
 
-🇮🇳 India: $104K
+India: $104K
 These three countries together contributed over 50% of total revenue.
 
 🔹 📦 Country-wise Boxes Shipped:
 
 
-🇦🇺 Australia also led in volume with 32K boxes shipped. 
+Australia also led in volume with 32K boxes shipped. 
 
 
 🛠️ Tech Stack & Skills Used:
